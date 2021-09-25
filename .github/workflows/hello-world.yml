@@ -4,7 +4,7 @@ on:
     branches:
       - running-hello-world
 jobs:
-  hello-job:
+  hello-world-job:
     runs-on: computer-local
     steps:
 
